@@ -1,0 +1,11 @@
+{
+  "name": "vanila-javacript-rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "deep sangani",
+  "scripts": {
+    "start":"node server.js",
+    "dev":"nodemon server.js"
+  },
+  "license": "MIT"
+}
