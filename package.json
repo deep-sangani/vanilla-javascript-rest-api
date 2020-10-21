@@ -4,8 +4,12 @@
   "main": "index.js",
   "author": "deep sangani",
   "scripts": {
-    "start":"node server.js",
-    "dev":"nodemon server.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "uuid": "^8.3.1"
+  }
 }
