@@ -4,10 +4,10 @@
 
 ```
 GET      /api/products
-POST     /api/products
-GET      /api/products/:id
-PUT      /api/products/:id
-DELETE   /api/products/:id
+POST     /api/product
+GET      /api/product/:id
+PUT      /api/product/:id
+DELETE   /api/product/:id
 ```
 ### Install dependencies
 > npm install
